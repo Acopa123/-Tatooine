@@ -24,6 +24,3 @@
 | ```sass --watch css```      | Activar sass, pero primero se instala ruby y luego la gema   |
 | ```sudo apt-get install ruby-full```      | Instalar ruby (linux)  |
 | ```sudo gem install sass```      | Instalar gema sass (linux)  |
-
-
-Acopa
