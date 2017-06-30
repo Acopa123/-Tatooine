@@ -12,7 +12,7 @@
 | ```git checkout -b <nombre documento>```      | Crear documento y a la vez ubicarse en el   |
 | ```git branch -d <nombre documento>```      | Borrar rama   |
 | ```git status```      | Ver modificacion de un archivo   |
-| ```git add . <nombre archivo>```      | Agregar archivos modificados   |
+| ```git add <nombre archivo>```      | Agregar archivos modificados   |
 | ```gb```      | Ver ramas del repositorio   |
 
 
@@ -54,7 +54,7 @@ git status
 ```
 Agregamos los cambios realizados
 ```
-git add -A
+git add .
 ```
 Realizamos otro status para verificar que se guardaron los cambios
 ```
